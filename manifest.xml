@@ -20,10 +20,10 @@
     <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-elf" name="android_prebuilts_gcc_linux-x86_aarch64_aarch64-elf" remote="StatiXOS" revision="12.0.0"/>
     <project path="prebuilts/gcc/linux-x86/arm/arm-eabi" name="android_prebuilts_gcc_linux-x86_arm_arm-eabi" remote="StatiXOS" revision="12.0.0"/>
     <!-- KProfiles -->
-    <project path="packages/apps/KProfiles" remote="github" name="KProfiles/android_packages_apps_KProfiles" revision="main" />
+    <project path="packages/apps/KProfiles" remote="gh" name="KProfiles/android_packages_apps_KProfiles" revision="main" />
     <!-- QCOM -->
     <project path="device/qcom/qssi" name="android_device_qcom_qssi" remote="AOSPA" revision="uvite"/>
     <project path="vendor/qcom/opensource/core-utils" name="vendor_qcom_opensource_core-utils" remote="YAAP" revision="fourteen"/>
     <!-- Display Features -->
-    <project path="packages/apps/DisplayFeatures" remote="github" name="cyberknight777/android_packages_apps_DisplayFeatures" revision="master" />
+    <project path="packages/apps/DisplayFeatures" remote="gh" name="cyberknight777/android_packages_apps_DisplayFeatures" revision="master" />
 </manifest>
