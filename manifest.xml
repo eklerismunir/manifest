@@ -14,8 +14,6 @@
     <project path="kernel/xiaomi/sunny" name="android_kernel_xiaomi_sunny" remote="Neternels" revision="staging"/>
     <!-- Vendor Tree -->
     <project path="vendor/xiaomi/sunny" name="vendor_xiaomi_sunny" remote="alpha-device" revision="alpha-14"/>
-    <!-- Hardware -->
-    <project path="hardware/xiaomi" name="hardware_xiaomi" remote="YAAP" revision="fourteen"/>
     <!-- GCC Toolchain -->
     <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-elf" name="android_prebuilts_gcc_linux-x86_aarch64_aarch64-elf" remote="StatiXOS" revision="12.0.0"/>
     <project path="prebuilts/gcc/linux-x86/arm/arm-eabi" name="android_prebuilts_gcc_linux-x86_arm_arm-eabi" remote="StatiXOS" revision="12.0.0"/>
